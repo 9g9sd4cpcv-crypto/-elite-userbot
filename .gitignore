@@ -1,0 +1,4 @@
+.env
+*.session
+userbot.db
+__pycache__/
